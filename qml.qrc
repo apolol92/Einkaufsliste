@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>MyEinkaufslisteModel.qml</file>
-        <file>EinkaufslisteFooter.qml</file>
-    </qresource>
-</RCC>
